@@ -5,22 +5,6 @@
 library(tidyverse)
 ```
 
-```
-## Warning: package 'tidyverse' was built under R version 3.6.2
-```
-
-```
-## Warning: package 'tidyr' was built under R version 3.6.2
-```
-
-```
-## Warning: package 'purrr' was built under R version 3.6.2
-```
-
-```
-## Warning: package 'dplyr' was built under R version 3.6.2
-```
-
 ```r
 library(plotly)
 library(ggplot2)
