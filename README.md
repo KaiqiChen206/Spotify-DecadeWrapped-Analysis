@@ -1,17 +1,3 @@
----
-title: "Advanced Inference Final Proj-My Spotify Wrapped"
-author: "Kaiqi Chen"
-date: "2020-05-06"
-output:
-  html_document:
-    toc: true
-    toc_float: true
-    theme: flatly
-fig_width: 7 
-fig_height: 7     
-
----
-
 
 
 
